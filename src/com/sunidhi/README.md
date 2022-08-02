@@ -1,5 +1,5 @@
 
-# Day 1 Assignment JA111
+# Day 1 Assignment java
 
 
 
